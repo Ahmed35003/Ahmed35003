@@ -1,25 +1,43 @@
-## Hi there! 👋 Welcome to my GitHub Profile   
-I'm Ahmed, a dedicated Software Tester with a passion for ensuring quality and excellence in software development.
-I specialize in creating seamless user experiences by identifying and resolving issues early in the development cycle.   
+## Hi there! I'm Ahmed Abdelmawgod 👋 
+### 🚀 Software Quality Control & Testing Engineer
 
-## 🚀 About Me  
-**🔍 Role:** Software Tester  
-**🎯 Focus Areas:**  
--Manual and Automated Testing  
--Test Case Design and Execution  
--Performance Testing  
--API Testing  
--Quality Assurance Best Practices  
-## 🛠️ Tools & Technologies  
--Testing Tools: Selenium, JUnit, TestNG, Postman, SoapUI, Jmeter  
--Bug Tracking: JIRA,Trello  
--Programming Knowledge: C++, Java, SQL  
--CI/CD: Jenkins, GitHub Actions    
+I am a focused and detail-oriented Software QC Engineer with a solid foundation in Computer Science. My passion lies in breaking software to make it better, ensuring top-notch quality, and delivering flawless user experiences. 
 
-##🌐 Connect With Me  
-LinkedIn: www.linkedin.com/in/ahmed-abdelmawgod-2b3921309  
+Through intensive, hands-on training at the **Information Technology Institute (ITI)**, I have honed my skills in modern testing methodologies, automation frameworks, and performance analysis, making me ready to hit the ground running in fast-paced development environments.
 
-<!---
-Ahmed35003/Ahmed35003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🎓 Education & Intensive Training
+
+*   **🎓 Information Technology Institute (ITI)**
+    *   *Software Testing Intensive Program (4-Month Scholarship)*
+*   **🎓 Bachelor of Computer Science**
+
+---
+
+### 🛠️ What I Do & Know Best
+
+*   **Quality Assurance & Methodology:** Manual Testing, Test Case Design & Execution, Bug Life Cycle, Agile/Scrum.
+*   **Automation Testing:** Building robust frameworks using **Java**, **Selenium WebDriver**, **Cucumber (BDD)**, TestNG, and JUnit.
+*   **API Testing:** Functional and automation testing using **Postman** and **RestAssured**.
+*   **Performance Testing:** Simulating loads and analyzing system behavior under stress using **Apache JMeter**.
+*   **Tools & Ecosystem:** Jira, Trello, Git & GitHub, CI/CD basics (Jenkins).
+
+---
+
+### ⚡ Professional Mindset
+
+- 🔍 **Detail-Oriented:** I look at the edge cases that others might miss.
+- 🤝 **Collaborative:** Experienced in working within Agile teams and aligning with developers to fix bugs early.
+- 📈 **Continuous Learner:** Always updating my tech stack to match the latest market standards.
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmed-abdelmawgod5" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="Ahmed Abdelmawgod LinkedIn" /></a>
+
+
+---
+*“Quality is not an act, it is a habit.”* 🚀
